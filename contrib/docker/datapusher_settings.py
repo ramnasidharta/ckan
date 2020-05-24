@@ -24,7 +24,7 @@ PORT = 8800
 
 #LOG_FILE = '/tmp/ckan_service.log'
 STDERR = True
-MAX_CONTENT_LENGTH=31457280  # 30MB
+MAX_CONTENT_LENGTH=41943040  # 40MB
 
 # http://docs.ckan.org/projects/datapusher/en/latest/using.html#configuring-ssl-verification
 SSL_VERIFY = False
